@@ -1,4 +1,4 @@
-# 🎙️ Voice AI Chat
+# 🎙️ Voice AI Chatbot
 
 A lightweight **voice-based assistant app** built using **Streamlit** and **OpenAI APIs**, developed as part of the AI Generalist role task at Crystal Group.
 
